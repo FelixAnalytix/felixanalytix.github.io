@@ -130,8 +130,8 @@
         </div>
     </div>
     <div class="footer">
-      <div class="container">
-             By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.
+      <div class="container" >
+             <a rel="tooltip" data-placement="top" title="When your mouse is connected with the network, click to create nodes.">Wanna know a fun tip?</a>
       </div>
     </div>
  </div>
@@ -139,6 +139,12 @@
    <script src="js/jquery-1.10.2.js" type="text/javascript"></script>
    <script src="js/bootstrap.min.js" type="text/javascript"></script>
    <script src="https://kit.fontawesome.com/c4ff71d330.js" crossorigin="anonymous"></script>
+  <!-- enable tooltip -->
+    <script type="text/javascript">
+    $(function () {
+        $("[rel='tooltip']").tooltip();
+    });
+    </script>
   <!-- Particules JS -->
   <script src="js/particles.min.js"></script>
   <script type="text/javascript">
