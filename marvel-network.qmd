@@ -1,0 +1,8 @@
+---
+page-layout: full
+---
+
+::: {.column-screen}
+{{< include vis/marvel-network.html >}}
+:::
+
