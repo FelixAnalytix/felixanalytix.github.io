@@ -17,12 +17,37 @@ about:
       href: https://instagram.com/felixanalytix
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
 ### R Tips and Tricks for Data Analytics
 
 Join the newsletter to get the code and never miss a new tutorial.
 
-<iframe src="https://felixanalytix.substack.com/embed" width="100%" height="120" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://felixanalytix.substack.com/embed" width="100%" height="120" frameborder="0" scrolling="no">
+
+</iframe>
 
 Once you subscribed you will receive an email with the URL of my GitHub repository.
 :::
+
+```{r}
+#| echo: false
+#| warning: false
+if (!require("particlesjs")) remotes::install_github("dreamRs/particlesjs")
+particlesjs::particles(particles_config(
+  particles.number.value = 40L,
+  particles.number.density.enable = TRUE,
+  particles.number.density.value_area = 400L,
+  particles.color.value = "#5365D0",
+  particles.shape.stroke.color = "#5365D0",
+  particles.opacity.value = 0.8,
+  particles.size.value = 3L,
+  particles.size.anim.speed = 40L,
+  particles.line_linked.enable = TRUE,
+  particles.line_linked.distance = 150L,
+  particles.line_linked.color = "#5365D0",
+  particles.line_linked.opacity = 0.4,
+  particles.line_linked.width = 1L,
+  particles.move.enable = TRUE,
+  particles.move.speed = 1L,
+))
+```
