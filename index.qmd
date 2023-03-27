@@ -36,7 +36,7 @@ if (!require("particlesjs")) remotes::install_github("dreamRs/particlesjs")
 particlesjs::particles(particles_config(
   particles.number.value = 40L,
   particles.number.density.enable = TRUE,
-  particles.number.density.value_area = 400L,
+  particles.number.density.value_area = 800L,
   particles.color.value = "#5365D0",
   particles.shape.stroke.color = "#5365D0",
   particles.opacity.value = 0.8,
