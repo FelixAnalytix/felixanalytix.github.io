@@ -7,4 +7,9 @@ categories:
   - table
 ---
 
+::: {layout-ncol=2}
+
 ![](https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/spotify-table-1.png)
+
+![](https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/spotify-table-2.png)
+:::

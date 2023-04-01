@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://felixanalytix.com/index.html</loc>
+    <lastmod>2023-04-01T13:11:11.169Z</lastmod>
+  </url>
+  <url>
     <loc>https://felixanalytix.com/vis/beautiful-tables.html</loc>
-    <lastmod>2023-04-01T12:52:00.618Z</lastmod>
+    <lastmod>2023-04-01T13:17:51.709Z</lastmod>
   </url>
   <url>
-    <loc>https://felixanalytix.com/vis.html</loc>
-    <lastmod>2023-04-01T13:08:01.914Z</lastmod>
+    <loc>https://felixanalytix.com/vis/beautiful-world-maps.html</loc>
+    <lastmod>2023-04-01T13:19:09.315Z</lastmod>
   </url>
   <url>
-    <loc>https://felixanalytix.com/sentiment-analysis.html</loc>
-    <lastmod>2023-04-01T13:02:05.559Z</lastmod>
+    <loc>https://felixanalytix.com/vis/marvel-network.html</loc>
+    <lastmod>2023-04-01T13:18:50.894Z</lastmod>
   </url>
   <url>
     <loc>https://felixanalytix.com/vis/sentiment-analysis.html</loc>
-    <lastmod>2023-04-01T13:08:02.707Z</lastmod>
+    <lastmod>2023-04-01T13:19:06.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://felixanalytix.com/vis.html</loc>
+    <lastmod>2023-04-01T13:19:07.281Z</lastmod>
   </url>
 </urlset>

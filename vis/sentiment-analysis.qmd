@@ -10,7 +10,7 @@ categories:
 
 ::: {layout-ncol=2}
 
-```{r}
+```{r plot1}
 #| echo: false
 #| warning: false
 # title: How to detect and analyse emotions from texts in R
@@ -126,7 +126,7 @@ text_df_bing %>%
 ```
 
 
-```{r}
+```{r plot2}
 #| echo: false
 #| warning: false
 text_df_nrc %>%
@@ -147,7 +147,7 @@ text_df_nrc %>%
 ```
 
 
-```{r}
+```{r plot3}
 #| echo: false
 #| warning: false
 # Emotional score by chapter ----------------------------------------------
@@ -169,7 +169,7 @@ text_df_afinn_chapter_score %>%
        caption = "FelixAnalytix.com")
 ```
 
-```{r}
+```{r plot4}
 #| echo: false
 #| warning: false
 # Index score by chapter -----------------------------------------------
