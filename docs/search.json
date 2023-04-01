@@ -1,30 +1,9 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "FELIX ANALYTIX",
-    "section": "",
-    "text": "Join the newsletter to get the code and never miss a new tutorial.\n\n\nOnce you subscribed you will receive an email with the URL of my GitHub repository."
-  },
-  {
     "objectID": "vis.html",
     "href": "vis.html",
     "title": "Visualisations made with R",
     "section": "",
-    "text": "The Marvel Cinematic Universe Network\n\n\n\ninteractive\n\n\nnetwork\n\n\n\nYoutube video, blog article\n\n\n\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJames Bond Tourism\n\n\n\nmaps\n\n\nggplot2\n\n\n\nYoutube video\n\n\n\n\n\n\nFeb 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "vis/marvel-network.html",
-    "href": "vis/marvel-network.html",
-    "title": "How to Create Interactive Networks",
-    "section": "",
-    "text": "Watch the Youtube tutorial or read the blog article to create this interactive network."
-  },
-  {
-    "objectID": "vis/beautiful-world-maps.html",
-    "href": "vis/beautiful-world-maps.html",
-    "title": "Beautiful World Maps",
-    "section": "",
-    "text": "# A tibble: 122 × 5\n   Movie                 Bond         Depicted_Film_Loc Visited Iso3 \n   <chr>                 <chr>        <chr>             <lgl>   <chr>\n 1 Dr. No                Sean Connery Great Britain     TRUE    GBR  \n 2 Dr. No                Sean Connery Jamaica           TRUE    JAM  \n 3 From Russia with Love Sean Connery United Kingdom    TRUE    GBR  \n 4 From Russia with Love Sean Connery Great Britain     TRUE    GBR  \n 5 From Russia with Love Sean Connery Turkey            TRUE    TUR  \n 6 From Russia with Love Sean Connery Croatia           TRUE    HRV  \n 7 From Russia with Love Sean Connery Serbia            TRUE    SRB  \n 8 From Russia with Love Sean Connery Italy             TRUE    ITA  \n 9 Goldfinger            Sean Connery United States     TRUE    USA  \n10 Goldfinger            Sean Connery Great Britain     TRUE    GBR  \n# ℹ 112 more rows"
+    "text": "Top 10 Songs on Spotify\n\n\n\ntable\n\n\n\nYoutube video\n\n\n\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Marvel Cinematic Universe Network\n\n\n\ninteractive\n\n\nnetwork\n\n\n\nYoutube video, blog article\n\n\n\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJames Bond Tourism\n\n\n\nmaps\n\n\nggplot2\n\n\n\nYoutube video\n\n\n\n\n\n\nFeb 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

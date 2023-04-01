@@ -2,6 +2,7 @@
   {
     "listing": "/vis.html",
     "items": [
+      "/vis/beautiful-tables.html",
       "/vis/marvel-network.html",
       "/vis/beautiful-world-maps.html"
     ]
