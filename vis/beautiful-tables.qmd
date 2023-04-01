@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Songs on Spotify"
+title: "Today's Top 10 Tracks on Spotify"
 date: 2023-03-01
 abstract: "[Youtube video](https://youtu.be/tmLoa_zL010)"
 image: "https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/spotify-table-1.png"
@@ -7,9 +7,4 @@ categories:
   - table
 ---
 
-
-::: {layout-ncol=2}
-
-![spotify table 1](https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/spotify-table-1.png)
-![spotify table 1](https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/spotify-table-2.png)
-:::
+![](https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/spotify-table-1.png)
