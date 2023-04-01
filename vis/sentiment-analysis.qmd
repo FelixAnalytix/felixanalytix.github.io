@@ -1,7 +1,7 @@
 ---
 title: "Sentiment Analysis of Orwell's 1984"
 date: 2022-08-16
-abstract: "[Youtube video](https://youtu.be/6el_C3PxSSw)"
+abstract: "[Youtube video](https://youtu.be/6el_C3PxSSw), [blog article](https://felixanalytix.medium.com/how-to-detect-emotions-from-texts-using-r-9fb89e980035)"
 image: "https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/sentiment-analysis.png"
 categories:
   - text
