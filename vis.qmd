@@ -1,7 +1,10 @@
 ---
-title: "Listing Example"
+title: "Visualisations made with R"
+margin-header: subscribe.html
 listing:
   contents:
     - "vis/*.qmd"
+  sort: "date desc"
   type: grid
+  categories: true
 ---

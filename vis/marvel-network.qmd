@@ -1,5 +1,11 @@
 ---
-title: "How to Create Interactive Networks"
+title: "The Marvel Cinematic Universe Network"
+date: 2022-11-08
+abstract: "[Youtube video](https://youtu.be/hgUJ-UFv4YY), [blog article](https://felixanalytix.medium.com/how-to-make-interactive-networks-using-r-programming-73805f3c6206)"
+image: "https://raw.githubusercontent.com/FelixAnalytix/felixanalytix.github.io/master/image/marvel-network.png"
+categories:
+  - interactive
+  - network
 ---
 
 ```{r}
