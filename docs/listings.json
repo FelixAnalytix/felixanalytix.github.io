@@ -2,6 +2,7 @@
   {
     "listing": "/vis.html",
     "items": [
+      "/vis/swiss-map-names.html",
       "/vis/beautiful-tables.html",
       "/vis/marvel-network.html",
       "/vis/sentiment-analysis.html",

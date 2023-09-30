@@ -2,26 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://felixanalytix.com/index.html</loc>
-    <lastmod>2023-04-01T13:11:11.169Z</lastmod>
+    <lastmod>2023-06-01T09:23:02.173Z</lastmod>
   </url>
   <url>
     <loc>https://felixanalytix.com/vis/beautiful-tables.html</loc>
-    <lastmod>2023-04-01T13:17:51.709Z</lastmod>
+    <lastmod>2023-09-30T12:22:06.876Z</lastmod>
   </url>
   <url>
     <loc>https://felixanalytix.com/vis/beautiful-world-maps.html</loc>
-    <lastmod>2023-04-01T13:19:09.315Z</lastmod>
+    <lastmod>2023-09-30T12:22:07.453Z</lastmod>
   </url>
   <url>
     <loc>https://felixanalytix.com/vis/marvel-network.html</loc>
-    <lastmod>2023-04-01T13:18:50.894Z</lastmod>
+    <lastmod>2023-04-01T13:20:20.999Z</lastmod>
   </url>
   <url>
     <loc>https://felixanalytix.com/vis/sentiment-analysis.html</loc>
-    <lastmod>2023-04-01T13:19:06.769Z</lastmod>
+    <lastmod>2023-09-30T12:22:07.951Z</lastmod>
   </url>
   <url>
     <loc>https://felixanalytix.com/vis.html</loc>
-    <lastmod>2023-04-01T13:19:07.281Z</lastmod>
+    <lastmod>2023-09-30T12:46:32.693Z</lastmod>
+  </url>
+  <url>
+    <loc>https://felixanalytix.com/vis/interactive-maps-leaflet.html</loc>
+    <lastmod>2023-09-30T12:22:31.280Z</lastmod>
+  </url>
+  <url>
+    <loc>https://felixanalytix.com/vis/swiss-map-names.html</loc>
+    <lastmod>2023-09-30T12:47:25.598Z</lastmod>
   </url>
 </urlset>
