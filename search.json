@@ -4,7 +4,7 @@
     "href": "vis/swiss-map-names/index.html",
     "title": "Customized Leaflet map using R",
     "section": "",
-    "text": "Would you like to know how to customize interactive maps using leaflet with R programming?\nIn this new YouTube video I show you how to fully customize your leaflet maps. As an example I reproduce an Swiss official chloropeth map of Switzerland showing the top 5 most commun surnames by commune.\nYou will learn how to:\nSounds interesting? Check out the video now:"
+    "text": "Would you like to know how to customize interactive maps using leaflet with R programming?\nIn this new YouTube video I show you how to fully customize your leaflet maps. As an example I reproduce an Swiss official choropleth map of Switzerland showing the top 5 most common surnames by commune.\nYou will learn how to:\nSounds interesting? Check out the video now:"
   },
   {
     "objectID": "vis/swiss-map-names/index.html#visualisation",
