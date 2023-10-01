@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/vis/swiss-map-names/index.html",
+      "/vis/interactive-country-maps/index.html",
+      "/vis/geocode-locations/index.html",
+      "/vis/beautiful-tables/index.html",
+      "/vis/map-regions/index.html",
+      "/vis/google-sheet-automation/index.html",
+      "/vis/interactive-network/index.html",
+      "/vis/sentiment-analysis/index.html",
+      "/vis/excel-files/index.html",
+      "/vis/advanced-filtering/index.html",
+      "/vis/world-maps/index.html"
+    ]
+  },
+  {
+    "listing": "/vis/index.html",
+    "items": [
+      "/vis/swiss-map-names/index.html",
+      "/vis/interactive-country-maps/index.html",
+      "/vis/geocode-locations/index.html",
+      "/vis/beautiful-tables/index.html",
+      "/vis/map-regions/index.html",
+      "/vis/google-sheet-automation/index.html",
+      "/vis/interactive-network/index.html",
+      "/vis/sentiment-analysis/index.html",
+      "/vis/excel-files/index.html",
+      "/vis/advanced-filtering/index.html",
+      "/vis/world-maps/index.html"
+    ]
+  }
+]
