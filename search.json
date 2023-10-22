@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "vis/swiss-map-names/index.html",
-    "href": "vis/swiss-map-names/index.html",
-    "title": "Customized Leaflet map using R",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Felix Analytix",
     "section": "",
-    "text": "Would you like to know how to customize interactive maps using leaflet with R programming?\nIn this new YouTube video I show you how to fully customize your leaflet maps. As an example I reproduce an Swiss official choropleth map of Switzerland showing the top 5 most common surnames by commune.\nYou will learn how to:\nSounds interesting? Check out the video now:"
+    "text": "Twitter\n  \n  \n    \n     Blog\n  \n  \n    \n     Youtube\n  \n\n  \n  \n\n👋 Hi there!\n\n\nMy name is Felix. I’m a Data Scientist and R Developer. I build tools and apps (mostly with R) to automate data analysis, share insights and improve decision making."
   },
   {
-    "objectID": "vis/swiss-map-names/index.html#visualisation",
-    "href": "vis/swiss-map-names/index.html#visualisation",
-    "title": "Customized Leaflet map using R",
-    "section": "Visualisation",
-    "text": "Visualisation"
+    "objectID": "about/index.html#get-the-code",
+    "href": "about/index.html#get-the-code",
+    "title": "Felix Analytix",
+    "section": "Get the code",
+    "text": "Get the code\nJoin my newsletter to download all the R scripts of my blog posts and YouTube videos.\n\n\nOnce you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can download all the R code."
   },
   {
     "objectID": "index.html#posts-and-videos",
@@ -19,27 +19,6 @@
     "title": "Felix Analytix",
     "section": "Posts and Videos",
     "text": "Posts and Videos\n\n\n\n\n\n\n\n\n\n\nCustomized Leaflet map using R\n\n\nReproducing an official Swiss map of the top surnames by commune with leaflet\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Country Maps with R\n\n\nLearn how to create Interactive Maps of any European Country using R programming.\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeocode ANY location using R\n\n\nGet the latitude and longitude of any place using Google Maps, Bing or Mapbox.\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMake Beautiful Tables using R\n\n\nFully customize your tables with colors, images and graphics with gt.\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMap ANY region of the world using R\n\n\nUsing R programming to Map Europe, Asia, Africa, America, etc.\n\n\n\nJan 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle Sheet Automation using R\n\n\nHow to read, write, append data, and change Google Sheet user permissions from R.\n\n\n\nDec 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Network of the Marvel Universe\n\n\nLearn how to use R programming to create interactive networks.\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Detect Emotions 😍😭😱 from Texts\n\n\nA sentiment analysis of George Orwell’s 1984 novel using tidytext\n\n\n\nAug 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead, Clean and Merge Excel files using R\n\n\nClean, validate and join Excel files in a single and consolidated dataset\n\n\n\nJul 5, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "vis/index.html",
-    "href": "vis/index.html",
-    "title": "Posts and Videos",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCustomized Leaflet map using R\n\n\n\n\n\nReproducing an official Swiss map of the top surnames by commune with leaflet\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nInteractive Country Maps with R\n\n\n\n\n\nLearn how to create Interactive Maps of any European Country using R programming.\n\n\n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\nGeocode ANY location using R\n\n\n\n\n\nGet the latitude and longitude of any place using Google Maps, Bing or Mapbox.\n\n\n\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMake Beautiful Tables using R\n\n\n\n\n\nFully customize your tables with colors, images and graphics with gt.\n\n\n\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMap ANY region of the world using R\n\n\n\n\n\nUsing R programming to Map Europe, Asia, Africa, America, etc.\n\n\n\n\n\n\nJan 29, 2023\n\n\n\n\n\n\n  \n\n\n\n\nGoogle Sheet Automation using R\n\n\n\n\n\nHow to read, write, append data, and change Google Sheet user permissions from R.\n\n\n\n\n\n\nDec 26, 2022\n\n\n\n\n\n\n  \n\n\n\n\nInteractive Network of the Marvel Universe\n\n\n\n\n\nLearn how to use R programming to create interactive networks.\n\n\n\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n  \n\n\n\n\nHow to Detect Emotions 😍😭😱 from Texts\n\n\n\n\n\nA sentiment analysis of George Orwell’s 1984 novel using tidytext\n\n\n\n\n\n\nAug 16, 2022\n\n\n\n\n\n\n  \n\n\n\n\nRead, Clean and Merge Excel files using R\n\n\n\n\n\nClean, validate and join Excel files in a single and consolidated dataset\n\n\n\n\n\n\nJul 5, 2022\n\n\n\n\n\n\n  \n\n\n\n\nAdvanced Data Filtering in R using dplyr\n\n\n\n\n\n5 advanced examples using the filter() function from dplyr\n\n\n\n\n\n\nMar 3, 2022\n\n\n\n\n\n\n  \n\n\n\n\nBeautiful World Maps using R\n\n\n\n\n\nMapping James Bond country locations by movie and actor with ggplot2 and sf\n\n\n\n\n\n\nFeb 11, 2022\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Felix Analytix",
-    "section": "",
-    "text": "Youtube\n  \n  \n    \n     Blog\n  \n  \n    \n     Twitter\n  \n\n  \n  \n\n👋 Hi there!\n\n\nMy name is Felix. I’m a Data Scientist and R Developer. I build tools and apps (mostly with R) to automate data analysis, share insights and improve decision making."
-  },
-  {
-    "objectID": "about/index.html#get-the-code",
-    "href": "about/index.html#get-the-code",
-    "title": "Felix Analytix",
-    "section": "Get the code",
-    "text": "Get the code\nJoin my newsletter to download all the R scripts of my blog posts and YouTube videos.\n\n\nOnce you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can download all the code."
   },
   {
     "objectID": "vis/advanced-filtering/index.html",
@@ -91,6 +70,13 @@
     "text": "Would you like to learn how to connect R to your Google Drive and automate the data processing of your Google Sheets?\nI just published a new YouTube video showing the basics of working with Google Sheets data using R programming.\nYou will learn how to:\n\nConnect R to Google Drive and list your existing Sheets.\nWrite and read Google Sheets from R.\nAppend data to a Google Sheet.\nRename a worksheet.\nChange file access permission (from private to public).\n\nCheck it out:"
   },
   {
+    "objectID": "vis/index.html",
+    "href": "vis/index.html",
+    "title": "Posts and Videos",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCustomized Leaflet map using R\n\n\n\n\n\nReproducing an official Swiss map of the top surnames by commune with leaflet\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nInteractive Country Maps with R\n\n\n\n\n\nLearn how to create Interactive Maps of any European Country using R programming.\n\n\n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\nGeocode ANY location using R\n\n\n\n\n\nGet the latitude and longitude of any place using Google Maps, Bing or Mapbox.\n\n\n\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMake Beautiful Tables using R\n\n\n\n\n\nFully customize your tables with colors, images and graphics with gt.\n\n\n\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMap ANY region of the world using R\n\n\n\n\n\nUsing R programming to Map Europe, Asia, Africa, America, etc.\n\n\n\n\n\n\nJan 29, 2023\n\n\n\n\n\n\n  \n\n\n\n\nGoogle Sheet Automation using R\n\n\n\n\n\nHow to read, write, append data, and change Google Sheet user permissions from R.\n\n\n\n\n\n\nDec 26, 2022\n\n\n\n\n\n\n  \n\n\n\n\nInteractive Network of the Marvel Universe\n\n\n\n\n\nLearn how to use R programming to create interactive networks.\n\n\n\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n  \n\n\n\n\nHow to Detect Emotions 😍😭😱 from Texts\n\n\n\n\n\nA sentiment analysis of George Orwell’s 1984 novel using tidytext\n\n\n\n\n\n\nAug 16, 2022\n\n\n\n\n\n\n  \n\n\n\n\nRead, Clean and Merge Excel files using R\n\n\n\n\n\nClean, validate and join Excel files in a single and consolidated dataset\n\n\n\n\n\n\nJul 5, 2022\n\n\n\n\n\n\n  \n\n\n\n\nAdvanced Data Filtering in R using dplyr\n\n\n\n\n\n5 advanced examples using the filter() function from dplyr\n\n\n\n\n\n\nMar 3, 2022\n\n\n\n\n\n\n  \n\n\n\n\nBeautiful World Maps using R\n\n\n\n\n\nMapping James Bond country locations by movie and actor with ggplot2 and sf\n\n\n\n\n\n\nFeb 11, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "vis/interactive-country-maps/index.html",
     "href": "vis/interactive-country-maps/index.html",
     "title": "Interactive Country Maps with R",
@@ -140,6 +126,20 @@
     "text": "Visualisations"
   },
   {
+    "objectID": "vis/swiss-map-names/index.html",
+    "href": "vis/swiss-map-names/index.html",
+    "title": "Customized Leaflet map using R",
+    "section": "",
+    "text": "Would you like to know how to customize interactive maps using leaflet with R programming?\nIn this new YouTube video I show you how to fully customize your leaflet maps. As an example I reproduce an Swiss official choropleth map of Switzerland showing the top 5 most common surnames by commune.\nYou will learn how to:\nSounds interesting? Check out the video now:"
+  },
+  {
+    "objectID": "vis/swiss-map-names/index.html#visualisations",
+    "href": "vis/swiss-map-names/index.html#visualisations",
+    "title": "Customized Leaflet map using R",
+    "section": "Visualisations",
+    "text": "Visualisations"
+  },
+  {
     "objectID": "vis/world-maps/index.html",
     "href": "vis/world-maps/index.html",
     "title": "Beautiful World Maps using R",
@@ -150,13 +150,6 @@
     "objectID": "vis/world-maps/index.html#visualisations",
     "href": "vis/world-maps/index.html#visualisations",
     "title": "Beautiful World Maps using R",
-    "section": "Visualisations",
-    "text": "Visualisations"
-  },
-  {
-    "objectID": "vis/swiss-map-names/index.html#visualisations",
-    "href": "vis/swiss-map-names/index.html#visualisations",
-    "title": "Customized Leaflet map using R",
     "section": "Visualisations",
     "text": "Visualisations"
   }

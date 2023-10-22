@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.felixanalytix.com/vis/swiss-map-names/index.html</loc>
-    <lastmod>2023-10-01T11:52:14.239Z</lastmod>
+    <loc>https://www.felixanalytix.com/about/index.html</loc>
+    <lastmod>2023-10-22T17:50:53.546Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/index.html</loc>
-    <lastmod>2023-10-02T19:29:26.414Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.felixanalytix.com/vis/index.html</loc>
-    <lastmod>2023-10-01T11:52:17.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.felixanalytix.com/about/index.html</loc>
-    <lastmod>2023-10-02T19:29:42.306Z</lastmod>
+    <lastmod>2023-10-22T17:50:54.500Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/advanced-filtering/index.html</loc>
-    <lastmod>2023-10-01T11:33:22.695Z</lastmod>
+    <lastmod>2023-10-22T17:50:55.022Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/beautiful-tables/index.html</loc>
-    <lastmod>2023-10-01T11:33:23.212Z</lastmod>
+    <lastmod>2023-10-22T17:50:55.539Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/excel-files/index.html</loc>
-    <lastmod>2023-10-01T11:33:23.775Z</lastmod>
+    <lastmod>2023-10-22T17:50:56.057Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/geocode-locations/index.html</loc>
-    <lastmod>2023-10-01T11:33:24.311Z</lastmod>
+    <lastmod>2023-10-22T17:50:56.585Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/google-sheet-automation/index.html</loc>
-    <lastmod>2023-10-01T11:33:24.881Z</lastmod>
+    <lastmod>2023-10-22T17:50:57.115Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.felixanalytix.com/vis/index.html</loc>
+    <lastmod>2023-10-22T17:50:58.019Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/interactive-country-maps/index.html</loc>
-    <lastmod>2023-10-01T11:33:25.430Z</lastmod>
+    <lastmod>2023-10-22T17:50:58.556Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/interactive-network/index.html</loc>
-    <lastmod>2023-10-01T11:33:25.972Z</lastmod>
+    <lastmod>2023-10-22T17:50:59.062Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/map-regions/index.html</loc>
-    <lastmod>2023-10-01T11:33:26.517Z</lastmod>
+    <lastmod>2023-10-22T17:50:59.569Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/sentiment-analysis/index.html</loc>
-    <lastmod>2023-10-01T11:33:27.086Z</lastmod>
+    <lastmod>2023-10-22T17:51:00.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.felixanalytix.com/vis/swiss-map-names/index.html</loc>
+    <lastmod>2023-10-22T17:51:00.652Z</lastmod>
   </url>
   <url>
     <loc>https://www.felixanalytix.com/vis/world-maps/index.html</loc>
-    <lastmod>2023-10-01T11:33:27.634Z</lastmod>
+    <lastmod>2023-10-22T17:51:01.196Z</lastmod>
   </url>
 </urlset>
