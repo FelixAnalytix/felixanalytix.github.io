@@ -21,6 +21,20 @@
     "text": "Posts and Videos\n\n\n\n\n\n\n\n\n\n\nCustomized Leaflet map using R\n\n\nReproducing an official Swiss map of the top surnames by commune with leaflet\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Country Maps with R\n\n\nLearn how to create Interactive Maps of any European Country using R programming.\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeocode ANY location using R\n\n\nGet the latitude and longitude of any place using Google Maps, Bing or Mapbox.\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMake Beautiful Tables using R\n\n\nFully customize your tables with colors, images and graphics with gt.\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMap ANY region of the world using R\n\n\nUsing R programming to Map Europe, Asia, Africa, America, etc.\n\n\n\nJan 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle Sheet Automation using R\n\n\nHow to read, write, append data, and change Google Sheet user permissions from R.\n\n\n\nDec 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Network of the Marvel Universe\n\n\nLearn how to use R programming to create interactive networks.\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Detect Emotions 😍😭😱 from Texts\n\n\nA sentiment analysis of George Orwell’s 1984 novel using tidytext\n\n\n\nAug 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead, Clean and Merge Excel files using R\n\n\nClean, validate and join Excel files in a single and consolidated dataset\n\n\n\nJul 5, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "templates/index.html",
+    "href": "templates/index.html",
+    "title": "R Templates",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSwitzerland Interactive Map\n\n\nInteractive Map of Switzerland using Leaflet.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "templates/interactive-map-switzerland/index.html",
+    "href": "templates/interactive-map-switzerland/index.html",
+    "title": "Switzerland Interactive Map",
+    "section": "",
+    "text": "Redirecting to https://templates.felixanalytix.com/b/swiss-map-communes…"
+  },
+  {
     "objectID": "vis/advanced-filtering/index.html",
     "href": "vis/advanced-filtering/index.html",
     "title": "Advanced Data Filtering in R using dplyr",

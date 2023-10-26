@@ -12,7 +12,14 @@
       "/vis/sentiment-analysis/index.html",
       "/vis/excel-files/index.html",
       "/vis/advanced-filtering/index.html",
-      "/vis/world-maps/index.html"
+      "/vis/world-maps/index.html",
+      "/templates/interactive-map-switzerland/index.html"
+    ]
+  },
+  {
+    "listing": "/templates/index.html",
+    "items": [
+      "/templates/interactive-map-switzerland/index.html"
     ]
   },
   {

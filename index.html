@@ -94,6 +94,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-templates-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-templates-listing'] = new List('listing-recent-templates-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MBKE3HER9X"></script>
 
@@ -146,7 +174,7 @@ gtag('config', 'G-MBKE3HER9X', { 'anonymize_ip': true});
  <span class="menu-text">home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://templates.felixanalytix.com/">
+    <a class="nav-link" href="./templates/index.html">
  <span class="menu-text">templates</span></a>
   </li>  
   <li class="nav-item">
@@ -205,11 +233,35 @@ gtag('config', 'G-MBKE3HER9X', { 'anonymize_ip': true});
   </div>
   <br>
 </div>
-<div class="position-relative overflow-hidden text-center bg-light">
+<div class="position-relative overflow-hidden pl-3 text-center bg-light">
   <div class="m-4">
     <h1 class="display-6 font-weight-normal">Discover my R templates</h1>
     <p class="lead font-weight-normal">Save time and boost your productivity with fully customizable R templates.</p>
-    <a class="btn btn-primary" id="click-to-templates" href="https://templates.felixanalytix.com/">Get the templates</a>
+<div id="listing-recent-templates-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Templates" data-listing-date-sort="1692396000000" data-listing-file-modified-sort="1698325507084" data-listing-reading-time-sort="0.07">
+<a href="./templates/interactive-map-switzerland/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./templates/interactive-map-switzerland/interactive-map-switzerland-2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Switzerland Interactive Map
+</h5>
+<div class="card-text listing-description">
+Interactive Map of Switzerland using Leaflet.
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+    <a class="btn btn-primary" id="click-to-templates" href="./templates">Get the templates</a>
   </div>
   <div class="product-device box-shadow d-none d-md-block"></div>
   <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
