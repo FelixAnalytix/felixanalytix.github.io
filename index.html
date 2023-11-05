@@ -25,34 +25,22 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
 <link href="./static/favicon.ico" rel="icon">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -66,35 +54,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-image','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts-listing'] = new List('listing-recent-posts-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-templates-listing .list');
@@ -139,18 +98,12 @@ gtag('config', 'G-MBKE3HER9X', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="_assets/panelset-extras.css">
 <meta property="og:title" content="Felix Analytix">
-<meta property="og:image" content="https://www.felixanalytix.com/vis\swiss-map-names\thumbnail-2.png">
 <meta property="og:site-name" content="Felix Analytix">
-<meta property="og:image:height" content="720">
-<meta property="og:image:width" content="1280">
 <meta name="twitter:title" content="Felix Analytix">
 <meta name="twitter:description" content="Data Scientist building data tools and apps using R.">
-<meta name="twitter:image" content="https://www.felixanalytix.com/vis\swiss-map-names\thumbnail-2.png">
 <meta name="twitter:creator" content="@FelixAnalytix">
 <meta name="twitter:site" content="@FelixAnalytix">
-<meta name="twitter:image-height" content="720">
-<meta name="twitter:image-width" content="1280">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -178,26 +131,18 @@ gtag('config', 'G-MBKE3HER9X', { 'anonymize_ip': true});
  <span class="menu-text">templates</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./vis/index.html">
- <span class="menu-text">posts</span></a>
+    <a class="nav-link" href="https://felixanalytix.medium.com">
+ <span class="menu-text">blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://felixanalytix.medium.com/">
- <span class="menu-text">blog</span></a>
+    <a class="nav-link" href="https://www.youtube.com/felixanalytix">
+ <span class="menu-text">youtube</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about/index.html">
  <span class="menu-text">about</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://felixanalytix.substack.com/">
- <span class="menu-text">RSS</span></a>
-  </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -227,7 +172,7 @@ gtag('config', 'G-MBKE3HER9X', { 'anonymize_ip': true});
     <h1 class="display-6 m-0">
       Get the R code
     </h1>
-    <p class="lead m-2">Join my newsletter to <b>download all the R scripts</b> of my posts and YouTube videos.</p>
+    <p class="lead m-2">Join my newsletter to <b>download all the R scripts</b> of my tutorials.</p>
 <iframe src="https://felixanalytix.substack.com/embed" width="100%" height="150" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no" data-external="1"></iframe>
     <small>Once you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can access all the R scripts.</small>
   </div>
@@ -256,23 +201,6 @@ R Shiny Pivot Table with Excel/CSV Export.
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Templates" data-listing-date-sort="1698444000000" data-listing-file-modified-sort="1698679998310" data-listing-reading-time-sort="0.07">
-<a href="./templates/interactive-map-switzerland/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./templates/interactive-map-switzerland/interactive-map-switzerland-2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Switzerland Interactive Map
-</h5>
-<div class="card-text listing-description">
-Interactive Map of Switzerland using Leaflet.
-</div>
-</div>
-</div>
-</a>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -283,220 +211,9 @@ No matching items
   <div class="product-device box-shadow d-none d-md-block"></div>
   <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
 </div>
-<section id="posts-and-videos" class="level2">
-<h2 class="anchored" data-anchor-id="posts-and-videos"><a class="no-text-decoration" href="./vis">Posts and Videos</a></h2>
-<div id="listing-recent-posts-listing" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1696111200000" data-listing-file-modified-sort="1696161117559" data-listing-reading-time-sort="0.56">
-<a href="./vis/swiss-map-names/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./vis/swiss-map-names/thumbnail-2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Customized Leaflet map using R
-</h5>
-<div class="card-text listing-description">
-Reproducing an official Swiss map of the top surnames by commune with leaflet
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Oct 1, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1684792800000" data-listing-file-modified-sort="1685993562000" data-listing-reading-time-sort="0.54">
-<a href="./vis/interactive-country-maps/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./vis/interactive-country-maps/interactive-country-maps.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Interactive Country Maps with R
-</h5>
-<div class="card-text listing-description">
-Learn how to create Interactive Maps of any European Country using R programming.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-May 23, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1681768800000" data-listing-file-modified-sort="1685993548000" data-listing-reading-time-sort="0.33">
-<a href="./vis/geocode-locations/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./vis/geocode-locations/geocode-locations.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Geocode ANY location using R
-</h5>
-<div class="card-text listing-description">
-Get the latitude and longitude of any place using Google Maps, Bing or Mapbox.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr 18, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1677625200000" data-listing-file-modified-sort="1685993542000" data-listing-reading-time-sort="0.43">
-<a href="./vis/beautiful-tables/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./vis/beautiful-tables/beautiful-tables.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Make Beautiful Tables using R
-</h5>
-<div class="card-text listing-description">
-Fully customize your tables with colors, images and graphics with gt.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 1, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1674946800000" data-listing-file-modified-sort="1686051337000" data-listing-reading-time-sort="0.59">
-<a href="./vis/map-regions/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./vis/map-regions/map-regions.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Map ANY region of the world using R
-</h5>
-<div class="card-text listing-description">
-Using R programming to Map Europe, Asia, Africa, America, etc.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 29, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1672009200000" data-listing-file-modified-sort="1686051387000" data-listing-reading-time-sort="0.415">
-<a href="./vis/google-sheet-automation/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./vis/google-sheet-automation/google-sheet-automation.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Google Sheet Automation using R
-</h5>
-<div class="card-text listing-description">
-How to read, write, append data, and change Google Sheet user permissions from R.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Dec 26, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1667862000000" data-listing-file-modified-sort="1686051420000" data-listing-reading-time-sort="0.345">
-<a href="./vis/interactive-network/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./vis/interactive-network/interactive-network.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Interactive Network of the Marvel Universe
-</h5>
-<div class="card-text listing-description">
-Learn how to use R programming to create interactive networks.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Nov 8, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1660600800000" data-listing-file-modified-sort="1686051217000" data-listing-reading-time-sort="0.415">
-<a href="./vis/sentiment-analysis/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./vis/sentiment-analysis/sentiment-analysis.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-How to Detect Emotions 😍😭😱 from Texts
-</h5>
-<div class="card-text listing-description">
-A sentiment analysis of George Orwell’s 1984 novel using tidytext
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Aug 16, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1656972000000" data-listing-file-modified-sort="1686058722000" data-listing-reading-time-sort="0.335">
-<a href="./vis/excel-files/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img data-src="./vis/excel-files/excel-files.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Read, Clean and Merge Excel files using R
-</h5>
-<div class="card-text listing-description">
-Clean, validate and join Excel files in a single and consolidated dataset
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jul 5, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-<nav id="recent-posts-listing-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div>
 
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -519,121 +236,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  let localAlternateSentinel = 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {

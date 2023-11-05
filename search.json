@@ -4,35 +4,35 @@
     "href": "about/index.html",
     "title": "Felix Analytix",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Blog\n  \n  \n    \n     Youtube\n  \n\n  \n  \n\n👋 Hi there!\n\n\nMy name is Felix. I’m a Data Scientist and R Developer. I build tools and apps (mostly with R) to automate data analysis, share insights and improve decision making."
+    "text": "Youtube\n  \n  \n    \n     Blog\n  \n  \n    \n     Twitter\n  \n\n  \n  \n\n👋 Hi there!\n\n\nMy name is Felix. I’m a Data Scientist and R Developer. I build tools and apps (mostly with R) to automate data analysis, share insights and improve decision making."
   },
   {
-    "objectID": "about/index.html#get-the-code",
-    "href": "about/index.html#get-the-code",
+    "objectID": "about/index.html#my-r-journey",
+    "href": "about/index.html#my-r-journey",
     "title": "Felix Analytix",
-    "section": "Get the code",
-    "text": "Get the code\nJoin my newsletter to download all the R scripts of my blog posts and YouTube videos.\n\n\nOnce you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can download all the R code."
+    "section": "My R Journey",
+    "text": "My R Journey\nMy employer is always surprised by how fast I develop data products. My secret? Knowing exactly where to look online for the R code I need. And having numerous pre-built R templates which I can customize with this new code. I started off making these templates for fun but they have been a surprising game-changer for me.\nI am passionate about R programming. But that wasn’t always the case. I was moderately interested when I was taught R during my courses in statistics for social sciences. It was mostly used to run statistical tests and visualize data with basic plots (ggplot2 was not yet wildly popular). My interest increased while experimenting with interactive graphics and maps. But I really got hooked once I discovered R Shiny, with which one can build Web applications with only a few lines of code.\nConvinced about the increasing role of data in society and the rise of open source softwares over proprietary statistical programs, I chose to follow my hunch. After graduation, I took a year off to combine two of my passions: travelling and coding with R. I lived across numerous cities in Asia and Latin America, and spent my days learning everything I could about R programming: from making advanced data wrangling and interactive graphics, to developing R packages and building fun R Shiny applications. I ended up creating of collection of R templates for various use cases.\nOnce home, I started working as a Data Scientist for an international financial organisation. I have gradually extended and tweaked my R templates, improving their durability and design over the years. Having transitioned into other data related roles, I now have a significant number covering most of the use cases I have encountered.\nI will gradually be sharing these templates on my website, and hope they speed up your development time with R as well. You can access my R templates here."
   },
   {
-    "objectID": "index.html#posts-and-videos",
-    "href": "index.html#posts-and-videos",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Felix Analytix",
-    "section": "Posts and Videos",
-    "text": "Posts and Videos\n\n\n\n\n\n\n\n\n\n\nCustomized Leaflet map using R\n\n\nReproducing an official Swiss map of the top surnames by commune with leaflet\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Country Maps with R\n\n\nLearn how to create Interactive Maps of any European Country using R programming.\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeocode ANY location using R\n\n\nGet the latitude and longitude of any place using Google Maps, Bing or Mapbox.\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMake Beautiful Tables using R\n\n\nFully customize your tables with colors, images and graphics with gt.\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMap ANY region of the world using R\n\n\nUsing R programming to Map Europe, Asia, Africa, America, etc.\n\n\n\nJan 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle Sheet Automation using R\n\n\nHow to read, write, append data, and change Google Sheet user permissions from R.\n\n\n\nDec 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Network of the Marvel Universe\n\n\nLearn how to use R programming to create interactive networks.\n\n\n\nNov 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Detect Emotions 😍😭😱 from Texts\n\n\nA sentiment analysis of George Orwell’s 1984 novel using tidytext\n\n\n\nAug 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead, Clean and Merge Excel files using R\n\n\nClean, validate and join Excel files in a single and consolidated dataset\n\n\n\nJul 5, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "",
+    "text": "Get the R code\n    \n    Join my newsletter to download all the R scripts of my tutorials.\n\n    Once you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can access all the R scripts.\n  \n  \n\n\n  \n    Discover my R templates\n    Save time and boost your productivity\n\n\n\n\n\n\n\n\n\n\nPivot Table with Excel Export\n\n\nR Shiny Pivot Table with Excel/CSV Export.\n\n\n\n\n\n\n\nNo matching items\n\n\n    see all templates"
   },
   {
     "objectID": "templates/index.html",
     "href": "templates/index.html",
     "title": "R Templates",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSwitzerland Interactive Map\n\n\nInteractive Map of Switzerland using Leaflet.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPivot Table with Excel Export\n\n\nR Shiny Pivot Table with Excel/CSV Export.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "templates/interactive-map-switzerland/index.html",
-    "href": "templates/interactive-map-switzerland/index.html",
-    "title": "Switzerland Interactive Map",
+    "objectID": "templates/pivot-table-excel-export/index.html",
+    "href": "templates/pivot-table-excel-export/index.html",
+    "title": "Pivot Table with Excel Export",
     "section": "",
-    "text": "Redirecting to https://templates.felixanalytix.com/b/swiss-map-communes…"
+    "text": "Redirecting to https://templates.felixanalytix.com/b/pivot-table…"
   },
   {
     "objectID": "vis/advanced-filtering/index.html",
