@@ -4,26 +4,26 @@
     "href": "about/index.html",
     "title": "Felix Analytix",
     "section": "",
-    "text": "Youtube\n  \n  \n    \n     Blog\n  \n  \n    \n     Twitter\n  \n\n  \n  \n\n👋 Hi there!\n\n\nMy name is Felix. I’m a Data Scientist and R Developer. I build tools and apps (mostly with R) to automate data analysis, share insights and improve decision making."
+    "text": "Youtube\n  \n  \n    \n     Blog\n  \n  \n    \n     Twitter\n  \n\n  \n  \n\n👋 Hi there!\n\n\nMy name is Felix. I’m a Data Scientist and R Developer. I build tools and apps (mostly with the R ecosystem) to automate data analysis, share insights and improve decision making."
   },
   {
     "objectID": "about/index.html#my-r-journey",
     "href": "about/index.html#my-r-journey",
     "title": "Felix Analytix",
     "section": "My R Journey",
-    "text": "My R Journey\nMy employer is always surprised by how fast I develop data products. My secret? Knowing exactly where to look online for the R code I need. And having numerous pre-built R templates which I can customize with this new code. I started off making these templates for fun but they have been a surprising game-changer for me.\nI am passionate about R programming. But that wasn’t always the case. I was moderately interested when I was taught R during my courses in statistics for social sciences. It was mostly used to run statistical tests and visualize data with basic plots (ggplot2 was not yet wildly popular). My interest increased while experimenting with interactive graphics and maps. But I really got hooked once I discovered R Shiny, with which one can build Web applications with only a few lines of code.\nConvinced about the increasing role of data in society and the rise of open source softwares over proprietary statistical programs, I chose to follow my hunch. After graduation, I took a year off to combine two of my passions: travelling and coding with R. I lived across numerous cities in Asia and Latin America, and spent my days learning everything I could about R programming: from making advanced data wrangling and interactive graphics, to developing R packages and building fun R Shiny applications. I ended up creating of collection of R templates for various use cases.\nOnce home, I started working as a Data Scientist for an international financial organisation. I have gradually extended and tweaked my R templates, improving their durability and design over the years. Having transitioned into other data related roles, I now have a significant number covering most of the use cases I have encountered.\nI will gradually be sharing these templates on my website, and hope they speed up your development time with R as well. You can access my R templates here."
+    "text": "My R Journey\nMy employer is always surprised by how fast I develop data products. My secret? Knowing exactly where to look online for the R code I need. And having numerous pre-built R templates which I can customize with new code. I started off making these templates for fun but they have been a surprising game-changer for me.\nI am passionate about R programming. But that wasn’t always the case. I was moderately interested when I was taught R during my courses in statistics for social sciences. R was mostly used to run statistical tests and visualize data with basic plots (ggplot2 was not yet wildly popular). My interest increased while experimenting with interactive graphics and maps. But I really got hooked once I discovered R Shiny, with which one can build Web applications with only a few lines of code.\nConvinced about the increasing role played by data in society and the rise of open source softwares over proprietary statistical programs, I chose to follow my hunch. After graduation, I took a year off to combine two of my passions: travelling and coding with R. I lived across numerous cities in Asia and Latin America, and spent my days learning everything I could about R programming: from making advanced data wrangling and interactive graphics, to developing R packages and building fun R Shiny applications. I ended up creating a collection of R templates for various use cases.\nOnce home, I started working as a Data Scientist for an international financial organisation. I have gradually extended and tweaked my R templates, improving their durability and design over the years. Having transitioned into other data related roles, I now have a significant number covering most of the use cases I have encountered.\nI will gradually be sharing these templates, and hope they speed up your development time with R as well."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Felix Analytix",
     "section": "",
-    "text": "Get the R code\n    \n    Join my newsletter to download all the R scripts of my tutorials.\n\n    Once you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can access all the R scripts.\n  \n  \n\n\n  \n    Discover my R templates\n    Save time and boost your productivity\n\n\n\n\n\n\n\n\n\n\nPivot Table with Excel Export\n\n\nR Shiny Pivot Table with Excel/CSV Export.\n\n\n\n\n\n\n\nNo matching items\n\n\n    see all templates"
+    "text": "Get the R code\n    \n    Join my newsletter to download all the R scripts of my tutorials.\n\n    Once you subscribed you will receive an automatic email with the URL of my GitHub repository, where you can access all the R scripts."
   },
   {
     "objectID": "templates/index.html",
     "href": "templates/index.html",
-    "title": "R Templates",
+    "title": "My R Templates Collection",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPivot Table with Excel Export\n\n\nR Shiny Pivot Table with Excel/CSV Export.\n\n\n\n\n\n\n\nNo matching items"
   },

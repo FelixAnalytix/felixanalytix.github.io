@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/templates/pivot-table-excel-export/index.html"
-    ]
-  },
-  {
     "listing": "/templates/index.html",
     "items": [
       "/templates/pivot-table-excel-export/index.html"
