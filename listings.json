@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/templates/index.html",
+    "listing": "/index.html",
     "items": [
       "/templates/pivot-table-excel-export/index.html"
     ]
@@ -19,6 +19,12 @@
       "/vis/excel-files/index.html",
       "/vis/advanced-filtering/index.html",
       "/vis/world-maps/index.html"
+    ]
+  },
+  {
+    "listing": "/templates/index.html",
+    "items": [
+      "/templates/pivot-table-excel-export/index.html"
     ]
   }
 ]
