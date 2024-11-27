@@ -26,8 +26,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <link href="./static/favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -55,35 +53,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-templates-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-templates-listing'] = new List('listing-recent-templates-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MBKE3HER9X"></script>
 
 <script type="text/javascript">
@@ -96,35 +65,6 @@ gtag('config', 'G-MBKE3HER9X', { 'anonymize_ip': true});
 <link rel="stylesheet" href="_assets/index.css"> <script src="_assets/particles.min.js"></script>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-KMWCBZL8');</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="_assets/panelset-extras.css">
 <meta property="og:title" content="Felix Analytix">
@@ -222,41 +162,22 @@ window.Quarto = {
   </div>
   <br>
 </div>
-<hr>
-<div class="position-relative overflow-hidden pl-3 text-center">
-  <div class="m-4">
-    <h1 class="display-6 font-weight-normal">Discover my R templates</h1>
-    <p class="lead font-weight-normal"><b>Save time and boost your productivity</b></p>
-<div id="listing-recent-templates-listing" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Templates" data-listing-date-sort="1698620400000" data-listing-file-modified-sort="1731149471410" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./templates/pivot-table-excel-export/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./templates/pivot-table-excel-export/pivot-table-excel-export.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Pivot Table with Excel Export
-</h5>
-<div class="card-text listing-description">
-R Shiny pivot table with custom Javascript enabling data export.
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-    <a class="btn btn-primary" id="click-to-templates" href="./templates">see all templates</a>
-  </div>
-  <div class="product-device box-shadow d-none d-md-block"></div>
-  <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
-</div>
-
+<!-- <hr> -->
+<!-- <div class="position-relative overflow-hidden pl-3 text-center"> -->
+<!-- ```{=html} -->
+<!--   <div class="m-4"> -->
+<!--     <h1 class="display-6 font-weight-normal">Discover my R templates</h1> -->
+<!--     <p class="lead font-weight-normal"><b>Save time and boost your productivity</b></p> -->
+<!-- ``` -->
+<!-- ::: {#recent-templates-listing} -->
+<!-- ::: -->
+<!-- ```{=html} -->
+<!--     <a class="btn btn-primary" id="click-to-templates" href="/templates">see all templates</a> -->
+<!--   </div> -->
+<!--   <div class="product-device box-shadow d-none d-md-block"></div> -->
+<!--   <div class="product-device product-device-2 box-shadow d-none d-md-block"></div> -->
+<!-- ``` -->
+<!-- </div> -->
 
 
 
