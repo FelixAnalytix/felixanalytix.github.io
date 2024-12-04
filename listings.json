@@ -2,7 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/templates/pivot-table-excel-export/index.html"
+      "/templates/pivot-table-redirect/index.html"
     ]
   },
   {
@@ -24,7 +24,7 @@
   {
     "listing": "/templates/index.html",
     "items": [
-      "/templates/pivot-table-excel-export/index.html"
+      "/templates/pivot-table-redirect/index.html"
     ]
   }
 ]
